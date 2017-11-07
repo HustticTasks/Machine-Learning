@@ -56,5 +56,8 @@ def handwritingClassTest(k):
     print("总错误数:%d\n"%errorCount)
     print("错误率:%f\n"%(errorCount/float(mTest)))
     return errorCount/float(mTest)
-handwritingClassTest(6)
+k=1
+while (k):
+        k=int(input("请输入k值:"))
+        handwritingClassTest(k)
     

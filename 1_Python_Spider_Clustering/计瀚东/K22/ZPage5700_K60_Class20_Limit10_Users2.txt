@@ -1,0 +1,7 @@
+5700页内容中K=10时限制标签数不小于60时第20聚类的用户信息：
+第1名用户：clcx_1315
+javascript:54.0 react.js:24.0 html:9.0 echarts:9.0 html5:8.0 redux:8.0 css:6.0 antd:4.0 echarts3:3.0 webpack:3.0 vue.js:3.0 antdesign:3.0 前端:3.0 jquery:3.0 bootstrap:2.0 前端设计:1.0 less:1.0 seajs:1.0 hls:1.0 windows10:1.0 react-router4:1.0 node.js:1.0 jest:1.0 正则表达式:1.0 数据采集:1.0 react-native:1.0 机器学习:1.0 map:1.0 单元测试:1.0 python:1.0 video.js:1.0 ajax:1.0 jsx:1.0 ant:1.0 react-router:1.0 node-webkit:1.0 router:1.0 requirejs:1.0 nw.js:1.0 
+
+第2名用户：邢爱明
+vue.js:49.0 javascript:16.0 vue-router:7.0 axios:5.0 vuex:5.0 vue-cli:4.0 element-ui:4.0 webpack:3.0 html5:3.0 打包apk:1.0 单页面应用:1.0 node.js:1.0 微信公众平台:1.0 异步请求:1.0 mint-ui:1.0 html:1.0 css:1.0 高德地图:1.0 前端:1.0 移动web开发:1.0 git:1.0 cookie:1.0 iview:1.0 svn:1.0 bootstrap:1.0 vue-resource:1.0 modal:1.0 amap:1.0 
+

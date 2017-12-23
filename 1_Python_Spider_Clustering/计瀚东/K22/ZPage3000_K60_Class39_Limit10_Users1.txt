@@ -1,0 +1,4 @@
+3000页内容中K=10时限制标签数不小于60时第39聚类的用户信息：
+第1名用户：zWìng
+javascript:49.0 react.js:24.0 html:9.0 echarts:9.0 redux:8.0 html5:7.0 css:5.0 antd:4.0 echarts3:3.0 webpack:3.0 vue.js:3.0 antdesign:3.0 前端:3.0 jquery:3.0 less:1.0 hls:1.0 windows10:1.0 react-router4:1.0 node.js:1.0 jest:1.0 数据采集:1.0 react-native:1.0 机器学习:1.0 map:1.0 单元测试:1.0 python:1.0 video.js:1.0 ajax:1.0 jsx:1.0 ant:1.0 bootstrap:1.0 react-router:1.0 node-webkit:1.0 router:1.0 nw.js:1.0 
+

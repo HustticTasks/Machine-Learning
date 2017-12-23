@@ -1,0 +1,25 @@
+5700页内容中K=10时限制标签数不小于60时第19聚类的用户信息：
+第1名用户：Chobits
+javascript:54.0 react.js:24.0 html:9.0 echarts:9.0 html5:8.0 redux:8.0 css:6.0 antd:4.0 echarts3:3.0 webpack:3.0 vue.js:3.0 antdesign:3.0 前端:3.0 jquery:3.0 bootstrap:2.0 前端设计:1.0 less:1.0 seajs:1.0 hls:1.0 windows10:1.0 react-router4:1.0 node.js:1.0 jest:1.0 正则表达式:1.0 数据采集:1.0 react-native:1.0 机器学习:1.0 map:1.0 单元测试:1.0 python:1.0 video.js:1.0 ajax:1.0 jsx:1.0 ant:1.0 react-router:1.0 node-webkit:1.0 router:1.0 requirejs:1.0 nw.js:1.0 
+
+第2名用户：papersnake
+vue.js:49.0 javascript:16.0 vue-router:7.0 axios:5.0 vuex:5.0 vue-cli:4.0 element-ui:4.0 webpack:3.0 html5:3.0 打包apk:1.0 单页面应用:1.0 node.js:1.0 微信公众平台:1.0 异步请求:1.0 mint-ui:1.0 html:1.0 css:1.0 高德地图:1.0 前端:1.0 移动web开发:1.0 git:1.0 cookie:1.0 iview:1.0 svn:1.0 bootstrap:1.0 vue-resource:1.0 modal:1.0 amap:1.0 
+
+第3名用户：外籍杰克
+vue.js:10.0 javascript:5.0 element-ui:3.0 laravel:2.0 css:2.0 css3:1.0 qt5:1.0 vue-router:1.0 高德地图:1.0 react-native:1.0 数据绑定:1.0 c++:1.0 react.js:1.0 
+
+第4名用户：leonleung
+word:1.0 springboot:1.0 api:1.0 视图:1.0 文件读取:1.0 注解:1.0 存储过程:1.0 文件上传:1.0 mybatis:1.0 spring-mvc:1.0 jar包:1.0 
+
+第5名用户：悠扬小Q
+javascript:14.0 html:5.0 node.js:3.0 html5:3.0 css:3.0 react.js:2.0 前端:1.0 es6:1.0 webpack:1.0 static:1.0 antd:1.0 redux:1.0 
+
+第6名用户：zWìng
+vue.js:4.0 javascript:2.0 express:1.0 vue-resource:1.0 mvc:1.0 iview:1.0 
+
+第7名用户：stardew
+node.js:3.0 javascript:3.0 typescript:2.0 html5:1.0 css:1.0 
+
+第8名用户：Tomoe
+php:36.0 javascript:15.0 html:4.0 laravel:4.0 thinkphp:3.0 java:3.0 html5:3.0 node.js:2.0 mysql:2.0 python:2.0 vue.js:2.0 thinkphp5:2.0 linux:1.0 sqlserver:1.0 .net-framework4.0:1.0 header:1.0 正则表达式:1.0 intellij-idea:1.0 分页:1.0 web:1.0 canvas:1.0 xdebug:1.0 桌面软件:1.0 php框架:1.0 json:1.0 css:1.0 数据查询:1.0 c#:1.0 mongodb:1.0 nginx:1.0 jsp:1.0 apache:1.0 pecl:1.0 windows:1.0 php-fpm:1.0 排序:1.0 ubuntu14.04:1.0 微信:1.0 
+
